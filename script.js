@@ -30,7 +30,7 @@ function initializeAudioBehavior(rectElement, audioFile) {
 
 // Usage
 const rect = document.querySelector('#a1b');
-initializeAudioBehavior(rect, 'break.mp3');
+initializeAudioBehavior(rect, '');
 
 const rect2 = document.querySelector('#a2b');
 initializeAudioBehavior(rect2, 'ORIGINAL_A2Baudio.mp3');
